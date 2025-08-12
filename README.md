@@ -16,7 +16,8 @@
 - **Metadata (IPFS):** [https://ipfs.io/ipfs/bafybeibo6l6kdg4ykedx2uznqps2xplji7t7uzlhn4m4w4ctopjgjolu24](https://ipfs.io/ipfs/bafybeibo6l6kdg4ykedx2uznqps2xplji7t7uzlhn4m4w4ctopjgjolu24)
 
 ## 🖼 Artwork
-![CampPad Badge](artwork/campad-badge.png)
+![CampPad Badge](artwork/campad-badge.png)  
+[View on IPFS](https://ipfs.io/ipfs/bafybeibo6l6kdg4ykedx2uznqps2xplji7t7uzlhn4m4w4ctopjgjolu24)
 
 ## 🛠 Tech Stack
 - **Mintpad** → NFT Launchpad & Contract Deployment
