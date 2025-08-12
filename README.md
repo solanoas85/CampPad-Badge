@@ -13,7 +13,7 @@
 ## 🔗 Important Links
 - **Contract Address:** [0xE6767e3728229D3fAe7391f2A469C4d92124b2Ac](https://sepolia.basescan.org/address/0xE6767e3728229D3fAe7391f2A469C4d92124b2Ac)
 - **Mint Page:** [camppad-badge.testnet.mintpad.me](https://camppad-badge.testnet.mintpad.me/)
-- **Metadata (IPFS):** *(add link here when available)*
+- **Metadata (IPFS):** [https://ipfs.io/ipfs/bafybeibo6l6kdg4ykedx2uznqps2xplji7t7uzlhn4m4w4ctopjgjolu24](https://ipfs.io/ipfs/bafybeibo6l6kdg4ykedx2uznqps2xplji7t7uzlhn4m4w4ctopjgjolu24)
 
 ## 🖼 Artwork
 ![CampPad Badge](artwork/campad-badge.png)
